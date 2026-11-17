@@ -33,7 +33,8 @@ automatiza a prospecção com IA e mostra aos sócios o funil, as metas e o caix
 - ★ **Scraper** de empresas por nicho e região com mapa, exportação e envio para o funil
 - ★ **Disparo** e **multi-inbox**: campanhas por vários números, meta por inbox, spintax e
   acompanhamento ao vivo de quem recebeu e quem respondeu
-- ★ **Cold Call**: fila de ligações, motivos de perda e meta diária de ligações
+- ★ **Cold Call**: fila de ligações, tela de ligação com roteiro, conversa e ações rápidas
+  (não atendeu, follow-up, pediu reunião), motivos de perda e meta diária de ligações
 - ★ **E-mail** 1 a 1 (Brevo, Gmail ou Resend) com caixa de entrada das respostas
 - ★ **Daniel**: rotina que separa os leads que viraram lixo para a equipe limpar, com auditoria e LGPD
 
@@ -56,6 +57,8 @@ automatiza a prospecção com IA e mostra aos sócios o funil, as metas e o caix
 | ![Agenda](docs/prints/10-agenda.jpg) | ![Radar](docs/prints/11-radar.jpg) |
 | **Leads** | **Recebimentos ★** |
 | ![Leads](docs/prints/12-leads.jpg) | ![Recebimentos](docs/prints/13-recebimentos.jpg) |
+| **Cold Call: ligação ★** | **Cold Call: fila de ligações ★** |
+| ![Cold Call](docs/prints/14-cold-call.jpg) | ![Fila do Cold Call](docs/prints/15-cold-call-fila.jpg) |
 
 ## Arquitetura
 
