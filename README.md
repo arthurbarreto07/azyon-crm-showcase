@@ -1,6 +1,6 @@
 # Azyon CRM — sistema operacional de vendas com IA para WhatsApp
 
-CRM da **Azyon Tech**, minha agência de IA, em uso na nossa operação comercial. Junta inbox de
+CRM desenvolvido para a **Azyon Tech**, uma agência de IA, para a operação comercial dela. Junta inbox de
 WhatsApp, agentes de IA que atendem e qualificam, funis, prospecção (scraper de mapa, cold call,
 disparo e e-mail) e o financeiro da agência, com estrutura multi-empresa pronta para virar SaaS.
 
@@ -10,7 +10,10 @@ disparo e e-mail) e o financeiro da agência, com estrutura multi-empresa pronta
 >
 > **Base open source:** o Azyon é construído sobre o [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
 > (MIT), projeto do qual também sou contribuidor (função de Cold Call, PR mergeado). Em cima dessa base
-> eu adaptei o produto para a minha agência e desenvolvi os módulos marcados com ★ abaixo.
+> adaptei o produto para a agência e conduzi o desenvolvimento dos módulos marcados com ★ abaixo.
+>
+> **Como foi feito:** conduzi o projeto (ideia, regras de negócio, validação e publicação) com apoio de
+> ferramentas de IA (Claude Code) para escrever o código.
 
 ![Inbox de WhatsApp](docs/prints/01-inbox.jpg)
 
